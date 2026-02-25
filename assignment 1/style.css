@@ -1,0 +1,29 @@
+body {
+    background-color: whitesmoke;
+    font-family: Arial;
+    padding: 60px;
+}
+
+.main-box {
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 38px;
+    color: black;
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: 20px;
+    color: black;
+    line-height: 1.5;
+    margin-bottom: 25px;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}

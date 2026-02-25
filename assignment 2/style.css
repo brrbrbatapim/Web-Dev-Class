@@ -1,0 +1,37 @@
+body {
+    background-color: lightpink;
+    font-family: Arial;
+    padding: 40px;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+}
+
+.intro-text {
+    font-size: 16px;
+    color: white;
+}
+
+.kitty-card {
+    width: 30%;
+    background-color: white;
+    border: 5px solid red;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.kitty-card img {
+    width: 100%;
+}
+
+h2 {
+    color: hotpink;
+    margin-top: 15px;
+}
+
+.card-description {
+    font-size: 12px;
+    color: black;
+}
