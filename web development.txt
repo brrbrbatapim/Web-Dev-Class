@@ -1,0 +1,31 @@
+1. how to create a new branch in GIT using CLI?
+2. how to pull changes from remote to local? 
+
+      HTML
+3. HTML Tags
+normal tags vs self closing tag (examples)
+4. what are inline elements and block elements?
+5. h1, h2, h3 
+5. how to render images?
+6. how do we hyperlink the elements?
+7. is it semantically correct or not? why or why not.
+
+
+     CSS
+8. how do we write inline styling, internal, external?
+9. which one of them is better and why?
+10. box- model?
+11. flex box 
+what happens if vertical, horizontal 
+12. display: none vs visibility: hidden
+13. position:
+14. font 
+15. background
+16. property to fix the stretched image
+17. make elements not clickable. Pointer-events: none
+
+
+
+
+
+
